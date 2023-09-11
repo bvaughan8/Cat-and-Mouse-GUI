@@ -1,0 +1,29 @@
+{
+    "assign": "project2",
+    "student": {
+        "name": "Vaughan, Brianna",
+        "username": "bvaughan8"
+    },
+    "grade": "110",
+    "tests": "",
+    "comments": [
+        "+10 Early Deadline"
+    ],
+    "committed": true,
+    "files": [
+        "Creature.java",
+        "Mouse.java",
+        "PlotterPoint.java",
+        "Plotter.jar",
+        "OOP-design.md",
+        "README.md",
+        ".gitignore",
+        "GridPoint.java",
+        "Simulator.java",
+        "City.java",
+        "Cat.java",
+        "Dog.java",
+        "UML.png",
+        "ZombieCat.java"
+    ]
+}
