@@ -1,15 +1,3 @@
-# Project 2
-
-
-## Help Received
-
-Please document any help you received in completing this lab. Note that the what you submit should be your own work. Refer to the syllabus for more details. 
-
-I worked alone
-
-## Describe your work
-
-
 ## Part 1: UML Diagram
 
 Note that you must do two tasks here:
