@@ -71,10 +71,10 @@ public class PlotterPoint{
                 g.setColor(Color.white);
             g.setStroke(new BasicStroke(OUTLINE_WIDTH));
             g.drawRect(point.x, point.y, dimension.width, dimension.height);
-
+/*
             if(Plotter.DEBUG)
                 g.drawString("("+point.x/POINT_WIDTH+","+point.y/POINT_HEIGHT+")",point.x,point.y);
-        }
+ */       }
 
         g.setColor(trailing ? new Color(this.color.getRed(),this.color.getGreen(),this.color.getBlue(),alpha) : this.color);
         g.fillRect(point.x,point.y,dimension.width,dimension.height);
